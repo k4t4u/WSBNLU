@@ -1,2 +1,3 @@
-# WSBNLU
-Study k4t
+# WSB-NLU
+Programs written by Piotr during studies.
+First year: C++.
